@@ -7,3 +7,5 @@
     2. regression
 2. Deep Learning
     1. neural network from scratch
+    2. ASL detector using MNIST dataset
+

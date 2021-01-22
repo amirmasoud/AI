@@ -1,4 +1,4 @@
-# IUT
+# AI
 
 ## List of Contents
 

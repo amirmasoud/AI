@@ -1,6 +1,7 @@
-# IUT
+<<<<<<< HEAD
+# AI
 
-## Titles
+## List of Contents
 
 1. Machine Learning
     1. gaussian
